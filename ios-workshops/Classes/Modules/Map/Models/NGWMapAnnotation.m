@@ -10,8 +10,8 @@
 
 @implementation NGWMapAnnotation
 
-- (NSString *)subtitle {
-    if (self.address) {
+- (NSString *)address {
+    if (_address) {
         return self.address;
     }
     return NSLocalizedString(@"Unkown...", nil);

@@ -37,7 +37,7 @@ describe(@"NGWMapAnnotation", ^{
             expect(sut.coordinate).to.equal(CLLocationCoordinate2DMake(0, 0));
         });
         
-        it(@"address should be nil", ^{
+        it(@"address should not be nil", ^{
             expect(sut.address).toNot.beNil();
         });
     });

@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'E8DF95E307135AD6526515DD'
+               BlueprintIdentifier = '7CE33FC38517526CCFB21C01'
                BlueprintName = 'Specta'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Specta.framework'>

@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '70D8F6DC05F765871059B79F'
+               BlueprintIdentifier = '6F5AEC7D994A4D2AD3FD6FAA'
                BlueprintName = 'SLCoreDataStack'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'SLCoreDataStack.framework'>
